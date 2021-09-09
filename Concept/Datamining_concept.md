@@ -1,47 +1,47 @@
-# µ¥ÀÌÅÍ ¸¶ÀÌ´× ºÎ¼ö±â
+# ë°ì´í„° ë§ˆì´ë‹ ë¶€ìˆ˜ê¸°
 
-## 1. µ¥ÀÌÅÍ ¸¶ÀÌ´×ÀÇ ±âº» °³³ä
+## 1. ë°ì´í„° ë§ˆì´ë‹ì˜ ê¸°ë³¸ ê°œë…
 
-- **µ¥ÀÌÅÍ ¸¶ÀÌ´×ÀÌ¶õ?**
+- **ë°ì´í„° ë§ˆì´ë‹ì´ëž€?**
 
 ```xml
-´ë¿ë·®ÀÇ µ¥ÀÌÅÍ·ÎºÎÅÍ µ¥ÀÌÅÍ ³»ÀÇ Á¸ÀçÇÏ´Â °ü°è, ÆÐÅÏ, ±ÔÄ¢ µîÀ» Å½»öÇÏ°í ¸ðÇüÈ­ÇØ¼­ 
-»õ·Î¿î Áö½ÄÀ» ÃßÃâÇÏ´Â ÀÏ·ÃÀÇ °úÁ¤µé
+ëŒ€ìš©ëŸ‰ì˜ ë°ì´í„°ë¡œë¶€í„° ë°ì´í„° ë‚´ì˜ ì¡´ìž¬í•˜ëŠ” ê´€ê³„, íŒ¨í„´, ê·œì¹™ ë“±ì„ íƒìƒ‰í•˜ê³  ëª¨í˜•í™”í•´ì„œ 
+ìƒˆë¡œìš´ ì§€ì‹ì„ ì¶”ì¶œí•˜ëŠ” ì¼ë ¨ì˜ ê³¼ì •ë“¤
 ```
 
-- **ÁöµµÇÐ½À°ú ºñÁöµµÇÐ½À**
+- **ì§€ë„í•™ìŠµê³¼ ë¹„ì§€ë„í•™ìŠµ**
 
 ```xml
-* ÁöµµÇÐ½À: µ¶¸³ ¹× Á¾¼Óº¯¼ö¸¦ ÀÌ¿ëÇØ¼­ µ¶¸³º¯¼ö¿¡ µû¸¥ Á¾¼Óº¯¼öÀÇ °ªÀ» ¿¹ÃøÇÏ´Â ¸ðÇüÀ» °³¹ß
--È¸±Í: ¿¬¼ÓÇü Á¾¼Óº¯¼ö
--ºÐ·ù: ¹üÁÖÇü Á¾¼Óº¯¼ö
--±â¹ý: È¸±ÍºÐ¼®, ·ÎÁö½ºÆ½ È¸±ÍºÐ¼®, ÀÇ»ç°áÁ¤³ª¹«, ½Å°æ¸Á µî
+* ì§€ë„í•™ìŠµ: ë…ë¦½ ë° ì¢…ì†ë³€ìˆ˜ë¥¼ ì´ìš©í•´ì„œ ë…ë¦½ë³€ìˆ˜ì— ë”°ë¥¸ ì¢…ì†ë³€ìˆ˜ì˜ ê°’ì„ ì˜ˆì¸¡í•˜ëŠ” ëª¨í˜•ì„ ê°œë°œ
+-íšŒê·€: ì—°ì†í˜• ì¢…ì†ë³€ìˆ˜
+-ë¶„ë¥˜: ë²”ì£¼í˜• ì¢…ì†ë³€ìˆ˜
+-ê¸°ë²•: íšŒê·€ë¶„ì„, ë¡œì§€ìŠ¤í‹± íšŒê·€ë¶„ì„, ì˜ì‚¬ê²°ì •ë‚˜ë¬´, ì‹ ê²½ë§ ë“±
 
-* ºñÁöµµÇÐ½À: Á¾¼Óº¯¼ö°¡ ¾ø°í µ¶¸³º¯¼öµéÀÇ °ü°è¸¦ Å½»öÀûÀ¸·Î ºÐ¼®ÇÏ¿© ÀÇ¹ÌÀÖ´Â °ªÀ» ÃßÃâ
--±â¹ý: ±ºÁýºÐ¼®, ¿¬°ü¼ººÐ¼®, ÁÖ¼ººÐ/ÀÎÀÚºÐ¼®
+* ë¹„ì§€ë„í•™ìŠµ: ì¢…ì†ë³€ìˆ˜ê°€ ì—†ê³  ë…ë¦½ë³€ìˆ˜ë“¤ì˜ ê´€ê³„ë¥¼ íƒìƒ‰ì ìœ¼ë¡œ ë¶„ì„í•˜ì—¬ ì˜ë¯¸ìžˆëŠ” ê°’ì„ ì¶”ì¶œ
+-ê¸°ë²•: êµ°ì§‘ë¶„ì„, ì—°ê´€ì„±ë¶„ì„, ì£¼ì„±ë¶„/ì¸ìžë¶„ì„
 ```
 
-- **¸ðÇüÀÇ Æò°¡**
+- **ëª¨í˜•ì˜ í‰ê°€**
 
 ```xml
-* °úÀûÇÕ: ¸Å¿ì º¹ÀâÇÑ ¸ðÇüÀ» »ç¿ëÇÏ¿© ÇöÀç ÁÖ¾îÁø µ¥ÀÌÅÍ¿¡ ´ëÇØ¼­´Â ÇÐ½À¿ÀÂ÷´Â ±²ÀåÈ÷ ÀÛÁö¸¸ 
-¿¹Ãø¿ÀÂ÷´Â Å« ¸ðÇüÀ» ÀÇ¹ÌÇÕ´Ï´Ù. µû¶ó¼­ ÁöµµÇÐ½À °úÁ¤¿¡¼­ ÇÐ½À¿ÀÂ÷¸¦ ³Ê¹« ÀÛ°Ô ÇÏ´Â °ÍÀº ÁÁÁö 
-¾ÊÀº °ÍÀ¸·Î ¾Ë°í ÀÖ½À´Ï´Ù.
+* ê³¼ì í•©: ë§¤ìš° ë³µìž¡í•œ ëª¨í˜•ì„ ì‚¬ìš©í•˜ì—¬ í˜„ìž¬ ì£¼ì–´ì§„ ë°ì´í„°ì— ëŒ€í•´ì„œëŠ” í•™ìŠµì˜¤ì°¨ëŠ” êµ‰ìž¥ížˆ ìž‘ì§€ë§Œ 
+ì˜ˆì¸¡ì˜¤ì°¨ëŠ” í° ëª¨í˜•ì„ ì˜ë¯¸í•©ë‹ˆë‹¤. ë”°ë¼ì„œ ì§€ë„í•™ìŠµ ê³¼ì •ì—ì„œ í•™ìŠµì˜¤ì°¨ë¥¼ ë„ˆë¬´ ìž‘ê²Œ í•˜ëŠ” ê²ƒì€ ì¢‹ì§€ 
+ì•Šì€ ê²ƒìœ¼ë¡œ ì•Œê³  ìžˆìŠµë‹ˆë‹¤.
 
-* ROC °î¼±: ±¸ÃàÇÑ ¸ðÇüÀÇ ¼º´ÉÀ» ¹Î°¨µµ¿Í Æ¯ÀÌµµ¸¦ ÀÌ¿ëÇÏ¿© ÆÇ´Ü
-ROC°î¼±ÀÇ ¸éÀûÀº AUC(Area Under the Curve)¶ó°í ÇÏ°í ÀÌ °ªÀÌ Å« ¸ðÇüÀ» ÁÁÀº ¸ðÇüÀÌ¶ó°í ÇÕ´Ï´Ù.
-ÀÌ AUC´Â ´ëÃ¼·Î 0.5¿Í 1 »çÀÌÀÇ °ªÀÌµË´Ï´Ù.
+* ROC ê³¡ì„ : êµ¬ì¶•í•œ ëª¨í˜•ì˜ ì„±ëŠ¥ì„ ë¯¼ê°ë„ì™€ íŠ¹ì´ë„ë¥¼ ì´ìš©í•˜ì—¬ íŒë‹¨
+ROCê³¡ì„ ì˜ ë©´ì ì€ AUC(Area Under the Curve)ë¼ê³  í•˜ê³  ì´ ê°’ì´ í° ëª¨í˜•ì„ ì¢‹ì€ ëª¨í˜•ì´ë¼ê³  í•©ë‹ˆë‹¤.
+ì´ AUCëŠ” ëŒ€ì²´ë¡œ 0.5ì™€ 1 ì‚¬ì´ì˜ ê°’ì´ë©ë‹ˆë‹¤.
 ```
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/242115f3-17ee-4be7-a73e-6b2f1080217c/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210906%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210906T035230Z&X-Amz-Expires=86400&X-Amz-Signature=c98e6c0a7c6fa9df7eea2d33fd09529a4a25c676519033c73326c3f24ce56761&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
 
-## 2. ¼±ÇüÈ¸±Í¸ðÇü
+## 2. ì„ í˜•íšŒê·€ëª¨í˜•
 
-- **´Ü¼øÈ¸±Í¸ðÇü**
+- **ë‹¨ìˆœíšŒê·€ëª¨í˜•**
 
 ```xml
-* ¸ðÇü: y = a + bx + c (c´Â ¿ÀÂ÷Ç×, Æò±Õ0, ºÐ»ê a^2)
-¼±ÇüÈ¸±Í¸ðÇü: µ¶¸³º¯¼ö¿Í Á¾¼Óº¯¼öÀÇ °ü°è°¡ ¼±ÇüÀÎ ¹æÁ¤½ÄÀ» °¡Áø´Ù.
+* ëª¨í˜•: y = a + bx + c (cëŠ” ì˜¤ì°¨í•­, í‰ê· 0, ë¶„ì‚° a^2)
+ì„ í˜•íšŒê·€ëª¨í˜•: ë…ë¦½ë³€ìˆ˜ì™€ ì¢…ì†ë³€ìˆ˜ì˜ ê´€ê³„ê°€ ì„ í˜•ì¸ ë°©ì •ì‹ì„ ê°€ì§„ë‹¤.
 ```
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/109c3390-52e7-4d66-a24a-9d8bd24f3330/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210906%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210906T035243Z&X-Amz-Expires=86400&X-Amz-Signature=d75830ce82d718085239120c9839dce75e0340b663264de94207a2ffc7006866&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
@@ -49,20 +49,20 @@ ROC°î¼±ÀÇ ¸éÀûÀº AUC(Area Under the Curve)¶ó°í ÇÏ°í ÀÌ °ªÀÌ Å« ¸ðÇüÀ» ÁÁÀº ¸ðÇüÀ
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8156bfc7-d7d2-4aaf-8b0f-cfcd4f009adb/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210906%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210906T035253Z&X-Amz-Expires=86400&X-Amz-Signature=f1690cf2d3bfd7a2df968a46e66e0a594b31af2292929645d99a466773df7dae&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
 
 ```xml
-* ¼±ÇüÈ¸±Í¸ðÇü¿¡ »ç¿ëµÇ´Â °¡Á¤
--¼±Çü¼º: µ¶¸³º¯¼ö¿Í Á¾¼Óº¯¼ö °£ÀÇ °ü°è°¡ ¼±ÇüÀû
--µîºÐ»ê¼º: ¿ÀÂ÷ÀÇ ºÐ»êÀÌ µ¶¸³º¯¼ö¿Í ¹«°üÇÏ°Ô ÀÏÁ¤
--Á¤±Ô¼º: ¿ÀÂ÷ÀÇ ºÐÆ÷°¡ Á¤±ÔºÐÆ÷
+* ì„ í˜•íšŒê·€ëª¨í˜•ì— ì‚¬ìš©ë˜ëŠ” ê°€ì •
+-ì„ í˜•ì„±: ë…ë¦½ë³€ìˆ˜ì™€ ì¢…ì†ë³€ìˆ˜ ê°„ì˜ ê´€ê³„ê°€ ì„ í˜•ì 
+-ë“±ë¶„ì‚°ì„±: ì˜¤ì°¨ì˜ ë¶„ì‚°ì´ ë…ë¦½ë³€ìˆ˜ì™€ ë¬´ê´€í•˜ê²Œ ì¼ì •
+-ì •ê·œì„±: ì˜¤ì°¨ì˜ ë¶„í¬ê°€ ì •ê·œë¶„í¬
 
-* °¡Á¤µéÀÇ °ËÁõ ¹æ¹ý
--¼±Çü¼º: ´Ü¼ø¼±ÇüÈ¸±Í¸ðÇü¿¡¼­´Â µ¶¸³, Á¾¼Óº¯¼ö¸¦ »êÁ¡µµ·Î ÀÌ¿ëÇØ¼­ È®ÀÎÇÏ°í
-		´ÙÁßÈ¸±Í¸ðÇü¿¡¼­´Â ÀÜÂ÷¿Í Á¾¼Óº¯¼ö¿ÍÀÇ »êÁ¡µµ¸¦ ÀÌ¿ëÇÕ´Ï´Ù.
+* ê°€ì •ë“¤ì˜ ê²€ì¦ ë°©ë²•
+-ì„ í˜•ì„±: ë‹¨ìˆœì„ í˜•íšŒê·€ëª¨í˜•ì—ì„œëŠ” ë…ë¦½, ì¢…ì†ë³€ìˆ˜ë¥¼ ì‚°ì ë„ë¡œ ì´ìš©í•´ì„œ í™•ì¸í•˜ê³ 
+		ë‹¤ì¤‘íšŒê·€ëª¨í˜•ì—ì„œëŠ” ìž”ì°¨ì™€ ì¢…ì†ë³€ìˆ˜ì™€ì˜ ì‚°ì ë„ë¥¼ ì´ìš©í•©ë‹ˆë‹¤.
 ```
 
-- **´ÙÁß¼±ÇüÈ¸±Í**
+- **ë‹¤ì¤‘ì„ í˜•íšŒê·€**
 
 ```xml
-´ÙÁß¼±ÇüÈ¸±Í: µ¶¸³º¯¼ö°¡ 2°³ ÀÌ»óÀÎ ¼±ÇüÈ¸±Í ¸ðÇüÀÔ´Ï´Ù.
+ë‹¤ì¤‘ì„ í˜•íšŒê·€: ë…ë¦½ë³€ìˆ˜ê°€ 2ê°œ ì´ìƒì¸ ì„ í˜•íšŒê·€ ëª¨í˜•ìž…ë‹ˆë‹¤.
 ```
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f6a1c40f-e753-44a5-8d09-f44913e1fd08/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210906%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210906T035303Z&X-Amz-Expires=86400&X-Amz-Signature=0b763afac2d340b9b92bbf4e09d111097f2e60ee01449d6fbf377a59379971d8&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
@@ -71,53 +71,53 @@ ROC°î¼±ÀÇ ¸éÀûÀº AUC(Area Under the Curve)¶ó°í ÇÏ°í ÀÌ °ªÀÌ Å« ¸ðÇüÀ» ÁÁÀº ¸ðÇüÀ
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/385e3d8c-d526-4257-80b3-d9b9a2601a1c/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210907%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210907T085802Z&X-Amz-Expires=86400&X-Amz-Signature=ebbdcd077c33622184158cfb63437bed1749f76ac092380dfd36f6794e23e948&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
 
-- ´ÙÇ×È¸±Í¸ðÇü
+- ë‹¤í•­íšŒê·€ëª¨í˜•
 
 ```jsx
-* ´ÙÇ×È¸±Í¸ðÇü: Á¾¼Óº¯¼ö¿Í ÀÔ·Âº¯¼öÀÇ °ü°è°¡ ¼±ÇüÀÌ ¾Æ´ÏÁö¸¸ ÀÌÂ÷ÇÔ¼ö·Î ÀûÇÕÇÒ ¼ö ÀÖÀ» °æ¿ì
-		»ç¿ëÇÑ´Ù.
+* ë‹¤í•­íšŒê·€ëª¨í˜•: ì¢…ì†ë³€ìˆ˜ì™€ ìž…ë ¥ë³€ìˆ˜ì˜ ê´€ê³„ê°€ ì„ í˜•ì´ ì•„ë‹ˆì§€ë§Œ ì´ì°¨í•¨ìˆ˜ë¡œ ì í•©í•  ìˆ˜ ìžˆì„ ê²½ìš°
+		ì‚¬ìš©í•œë‹¤.
 ```
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/16e99c38-063d-41a7-aefb-7f595d62a3a4/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210907%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210907T085828Z&X-Amz-Expires=86400&X-Amz-Signature=82a5d21a410a17ab2a6a8f69ba18d8346eda1564f20c8ad2807988cea3759b21&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/76cd66ec-425c-4e15-b32f-9198174033ee/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210907%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210907T085839Z&X-Amz-Expires=86400&X-Amz-Signature=81665f3f415cc1e8edf03b837ff12de2693cdce1aaffffac3f0dbe527b635492&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
 
-- **´ÉÇüÈ¸±ÍºÐ¼®(Ridge Regression, ¸´ÁöÈ¸±ÍºÐ¼®)**
+- **ëŠ¥í˜•íšŒê·€ë¶„ì„(Ridge Regression, ë¦¿ì§€íšŒê·€ë¶„ì„)**
 
 ```xml
-´ÉÇüÈ¸±Í: ÀÏ¹ÝÀûÀ¸·Î ¸¹Àº ¼öÀÇ º¯¼ö¸¦ °¡Áö°í ¼±ÇüÈ¸±ÍºÐ¼®À» ÇÏ¸é Train R-squared´Â ÁÁ¾ÆÁöÁö¸¸ 
-	OverfittingÀ» ¹ß»ý½ÃÅµ´Ï´Ù. µû¶ó¼­ ´ÉÇüÈ¸±Í¸ðÇüÀº ÀÏ¹ÝÀûÀÎ ¼±ÇüÈ¸±ÍºÐ¼®ÀÇ µ¶¸³º¯¼öÀÇ °è¼ö¸¦
-	ÃßÁ¤ÇÏ´Â °úÁ¤¿¡¼­ ÆÐ³ÎÆ¼ Ç×ÀÎ ¶÷´Ù¸¦ Ãß°¡½ÃÄÑ¼­ ¸ðÇüÀÇ ºÐ»êÀ» ÁÙ¿©ÁÖ°Ô µË´Ï´Ù.
+ëŠ¥í˜•íšŒê·€: ì¼ë°˜ì ìœ¼ë¡œ ë§Žì€ ìˆ˜ì˜ ë³€ìˆ˜ë¥¼ ê°€ì§€ê³  ì„ í˜•íšŒê·€ë¶„ì„ì„ í•˜ë©´ Train R-squaredëŠ” ì¢‹ì•„ì§€ì§€ë§Œ 
+	Overfittingì„ ë°œìƒì‹œí‚µë‹ˆë‹¤. ë”°ë¼ì„œ ëŠ¥í˜•íšŒê·€ëª¨í˜•ì€ ì¼ë°˜ì ì¸ ì„ í˜•íšŒê·€ë¶„ì„ì˜ ë…ë¦½ë³€ìˆ˜ì˜ ê³„ìˆ˜ë¥¼
+	ì¶”ì •í•˜ëŠ” ê³¼ì •ì—ì„œ íŒ¨ë„í‹° í•­ì¸ ëžŒë‹¤ë¥¼ ì¶”ê°€ì‹œì¼œì„œ ëª¨í˜•ì˜ ë¶„ì‚°ì„ ì¤„ì—¬ì£¼ê²Œ ë©ë‹ˆë‹¤.
 ```
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/30f8a77a-de83-4d09-87fd-d581c72dbe49/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210907%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210907T085850Z&X-Amz-Expires=86400&X-Amz-Signature=7e42ca68b4d9d52df8dfc5a345dfd1f93f829c5e5366081fcb06645ea56019f2&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
 
-- **¶ó½îÈ¸±ÍºÐ¼®**( Lasso Regression )
+- **ë¼ì˜íšŒê·€ë¶„ì„**( Lasso Regression )
 
 ```xml
-¶ó½îÈ¸±ÍºÐ¼®: ¸´ÁöÈ¸±Í¿Í ºñ½ÁÇÏ°Ô ÆÐ³ÎÆ¼¸¦ ÁÖÁö¸¸ Àý´ñ°ªÀÌ ºÙÀº ÆÐ³ÎÆ¼Ç×À» ÁÖ±â ¶§¹®¿¡ ÀÛÀº °ªÀÇ
-	ÆÄ¶ó¹ÌÅÍ¸¦ 0À¸·Î ¸¸µé¾î ÇØ´ç º¯¼ö¸¦ ¸ðµ¨¿¡¼­ »èÁ¦ÇÏ°í ¸ðµ¨À» ´Ü¼øÇÏ°Ô ÇØÁÖ¾î ÇØ¼®¿¡ ¿ëÀÌÇÏ°Ô 
-	ÇØÁÝ´Ï´Ù.
+ë¼ì˜íšŒê·€ë¶„ì„: ë¦¿ì§€íšŒê·€ì™€ ë¹„ìŠ·í•˜ê²Œ íŒ¨ë„í‹°ë¥¼ ì£¼ì§€ë§Œ ì ˆëŒ“ê°’ì´ ë¶™ì€ íŒ¨ë„í‹°í•­ì„ ì£¼ê¸° ë•Œë¬¸ì— ìž‘ì€ ê°’ì˜
+	íŒŒë¼ë¯¸í„°ë¥¼ 0ìœ¼ë¡œ ë§Œë“¤ì–´ í•´ë‹¹ ë³€ìˆ˜ë¥¼ ëª¨ë¸ì—ì„œ ì‚­ì œí•˜ê³  ëª¨ë¸ì„ ë‹¨ìˆœí•˜ê²Œ í•´ì£¼ì–´ í•´ì„ì— ìš©ì´í•˜ê²Œ 
+	í•´ì¤ë‹ˆë‹¤.
 ```
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/dba6a1fd-68f4-40c3-b625-e1e34f137ff1/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210907%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210907T085859Z&X-Amz-Expires=86400&X-Amz-Signature=9364b1b7ad4ae4a0bf706fb818fd604fd74f2a94154d7976283faeb95376c2f1&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
 
-## 2. ·ÎÁö½ºÆ½ È¸±ÍºÐ¼®
+## 2. ë¡œì§€ìŠ¤í‹± íšŒê·€ë¶„ì„
 
-- ·ÎÁ÷½ºÆ½ È¸±Í
+- ë¡œì§ìŠ¤í‹± íšŒê·€
 
 ```xml
--·ÎÁö½ºÆ½È¸±Í: ±âÁ¸ È¸±ÍºÐ¼®ÀÇ Á¾¼Óº¯¼ö°¡ ¿¬¼ÓÇü ¹üÁÖ¿´´Ù¸é ·ÎÁö½ºÆ½ È¸±ÍºÐ¼®À» Á¾¼Óº¯¼ö°¡ ¹üÁÖÇü
-	ÀÏ ¶§ Àû¿ëÇÏ´Â È¸±ÍºÐ¼® ±â¹ýÀÔ´Ï´Ù. º¯¼ö¸¦ ¼±ÅÃÇÒ ¶§ ·ÎÁö½ºÆ½ È¸±Í´Â ·Î±×¿ìµµÇÔ¼öÀÇ °ªÀ»
-	ÀÌ¿ëÇÕ´Ï´Ù.
+-ë¡œì§€ìŠ¤í‹±íšŒê·€: ê¸°ì¡´ íšŒê·€ë¶„ì„ì˜ ì¢…ì†ë³€ìˆ˜ê°€ ì—°ì†í˜• ë²”ì£¼ì˜€ë‹¤ë©´ ë¡œì§€ìŠ¤í‹± íšŒê·€ë¶„ì„ì„ ì¢…ì†ë³€ìˆ˜ê°€ ë²”ì£¼í˜•
+	ì¼ ë•Œ ì ìš©í•˜ëŠ” íšŒê·€ë¶„ì„ ê¸°ë²•ìž…ë‹ˆë‹¤. ë³€ìˆ˜ë¥¼ ì„ íƒí•  ë•Œ ë¡œì§€ìŠ¤í‹± íšŒê·€ëŠ” ë¡œê·¸ìš°ë„í•¨ìˆ˜ì˜ ê°’ì„
+	ì´ìš©í•©ë‹ˆë‹¤.
 
--¸ðÇü: P(Y = 1|x) = exp(a + bx)/(1 + exp(a + bx))
+-ëª¨í˜•: P(Y = 1|x) = exp(a + bx)/(1 + exp(a + bx))
 
--Odds Ratio(¿ÀÁîºñ): Odds´Â ºñÀÌ°í, Odds ratio´Â ºñÀÇ ºñÀ²ÀÌ´Ù.
-	oddsÀÇ ÇØ¼®Àº ½ÇÆÐ¿¡ ºñÇØ ¼º°øÇÒ È®·üÀÇ ºñ¸¦ ÀÇ¹ÌÇÏ¸ç, odds = p / (1-p)ÀÌ´Ù.
-	ÀÌ¶§ Odds¿¡ log¸¦ ÃëÇÑ °ÍÀÌ ¹Ù·Î ·ÎÁþ( log (p/(1-p)) ) ÀÌ´Ù.
+-Odds Ratio(ì˜¤ì¦ˆë¹„): OddsëŠ” ë¹„ì´ê³ , Odds ratioëŠ” ë¹„ì˜ ë¹„ìœ¨ì´ë‹¤.
+	oddsì˜ í•´ì„ì€ ì‹¤íŒ¨ì— ë¹„í•´ ì„±ê³µí•  í™•ë¥ ì˜ ë¹„ë¥¼ ì˜ë¯¸í•˜ë©°, odds = p / (1-p)ì´ë‹¤.
+	ì´ë•Œ Oddsì— logë¥¼ ì·¨í•œ ê²ƒì´ ë°”ë¡œ ë¡œì§“( log (p/(1-p)) ) ì´ë‹¤.
 
--´ÙÁß ·ÎÁö½ºÆ½ È¸±Í: µ¶¸³º¯¼ö°¡ 2°³ ÀÌ»óÀÌ°í Á¾¼Óº¯¼ö°¡ ¹üÁÖÇü ÀÚ·áÀÏ ¶§(ÀÌ¶§ ¹üÁÖ°¡ 2°³ÀÌ´Ù.)
+-ë‹¤ì¤‘ ë¡œì§€ìŠ¤í‹± íšŒê·€: ë…ë¦½ë³€ìˆ˜ê°€ 2ê°œ ì´ìƒì´ê³  ì¢…ì†ë³€ìˆ˜ê°€ ë²”ì£¼í˜• ìžë£Œì¼ ë•Œ(ì´ë•Œ ë²”ì£¼ê°€ 2ê°œì´ë‹¤.)
 ```
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/91a53ed7-27e6-4a4b-83f2-166ee2cf0a9a/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210907%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210907T085908Z&X-Amz-Expires=86400&X-Amz-Signature=d07655808e09a28d49c79a461fae948481961ba5d6865e2ef794b5c558ad3ba1&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
@@ -128,246 +128,263 @@ ROC°î¼±ÀÇ ¸éÀûÀº AUC(Area Under the Curve)¶ó°í ÇÏ°í ÀÌ °ªÀÌ Å« ¸ðÇüÀ» ÁÁÀº ¸ðÇüÀ
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a2b08302-2107-445a-8f41-9fb808fdbc46/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210907%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210907T085932Z&X-Amz-Expires=86400&X-Amz-Signature=3f906b3577be07938353c6fbe6ed8d1856813a1884828c4c278c764b24371591&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
 
-## 4. ÀÇ»ç°áÁ¤³ª¹«
+## 4. ì˜ì‚¬ê²°ì •ë‚˜ë¬´
 
-- **ÀÇ»ç°áÁ¤³ª¹«**
+- **ì˜ì‚¬ê²°ì •ë‚˜ë¬´**
 
 ```xml
-* ÀÇ»ç°áÁ¤³ª¹«: ÀÇ»ç°áÁ¤ ±ÔÄ¢À» ³ª¹« ±¸Á¶·Î µµÇ¥È­ÇØ¼­ ºÐ·ù ¹× ÃßÁ¤À» ¼öÇàÇÏ´Â ºÐ¼® ¹æ¹ýÀÔ´Ï´Ù.
-	Æ¯È÷ ¹üÁÖÇü°ú ¿¬¼ÓÇü µ¥ÀÌÅÍ¿¡ ´ëÇÑ ¿¹ÃøÀÌ °¡´ÉÇÕ´Ï´Ù.
+* ì˜ì‚¬ê²°ì •ë‚˜ë¬´: ì˜ì‚¬ê²°ì • ê·œì¹™ì„ ë‚˜ë¬´ êµ¬ì¡°ë¡œ ë„í‘œí™”í•´ì„œ ë¶„ë¥˜ ë° ì¶”ì •ì„ ìˆ˜í–‰í•˜ëŠ” ë¶„ì„ ë°©ë²•ìž…ë‹ˆë‹¤.
+	íŠ¹ížˆ ë²”ì£¼í˜•ê³¼ ì—°ì†í˜• ë°ì´í„°ì— ëŒ€í•œ ì˜ˆì¸¡ì´ ê°€ëŠ¥í•©ë‹ˆë‹¤.
 
-* ¼ø¼öµµ¿Í ºÒ¼øµµ&ºÒÈ®½Ç¼º: ÀÇ»ç°áÁ¤³ª¹«´Â ÇÑ ¹ø ºÐ±âÇÒ ¶§¸¶´Ù º¯¼ö ¿µ¿ªÀ» µÎ °³·Î ±¸ºÐÇÏ°Ô µË´Ï´Ù. 
-	ÀÌ¶§ ±¸ºÐÇÏ´Â ±âÁØÀº ¼ø¼öµµ¿Í ºÒ¼øµµ¿¡ µû¶ó ºÐ±âµË´Ï´Ù.
-	Áï, °¢ ¸¶µð¿¡¼­ ºÐ¸®º¯¼ö¿Í ºÐ¸® ±âÁØÀÇ ¼³Á¤Àº »ý¼ºµÈ µÎ °³ÀÇ ÀÚ½Ä¸¶µðÀÇ ¼ø¼öµµÀÇ ÇÕÀÌ °¡Àå Å«
-	È¤Àº ºÒ¼øµµÀÇ ÇÕÀÌ °¡Àå ÀÛÀº ºÐ¸®º¯¼ö¿Í ºÐ¸®±âÁØÀÌ ¼±ÅÃµË´Ï´Ù.
+* ìˆœìˆ˜ë„ì™€ ë¶ˆìˆœë„&ë¶ˆí™•ì‹¤ì„±: ì˜ì‚¬ê²°ì •ë‚˜ë¬´ëŠ” í•œ ë²ˆ ë¶„ê¸°í•  ë•Œë§ˆë‹¤ ë³€ìˆ˜ ì˜ì—­ì„ ë‘ ê°œë¡œ êµ¬ë¶„í•˜ê²Œ ë©ë‹ˆë‹¤. 
+	ì´ë•Œ êµ¬ë¶„í•˜ëŠ” ê¸°ì¤€ì€ ìˆœìˆ˜ë„ì™€ ë¶ˆìˆœë„ì— ë”°ë¼ ë¶„ê¸°ë©ë‹ˆë‹¤.
+	ì¦‰, ê° ë§ˆë””ì—ì„œ ë¶„ë¦¬ë³€ìˆ˜ì™€ ë¶„ë¦¬ ê¸°ì¤€ì˜ ì„¤ì •ì€ ìƒì„±ëœ ë‘ ê°œì˜ ìžì‹ë§ˆë””ì˜ ìˆœìˆ˜ë„ì˜ í•©ì´ ê°€ìž¥ í°
+	í˜¹ì€ ë¶ˆìˆœë„ì˜ í•©ì´ ê°€ìž¥ ìž‘ì€ ë¶„ë¦¬ë³€ìˆ˜ì™€ ë¶„ë¦¬ê¸°ì¤€ì´ ì„ íƒë©ë‹ˆë‹¤.
 
-* ºÒ¼øµµ: ´Ù¾çÇÑ ¹üÁÖµéÀÇ ¾ó¸¶³ª ¸¹ÀÌ ¼¯¿©ÀÖ´Â °¡¸¦ ³ªÅ¸³À´Ï´Ù.
-* ¼ø¼öµµ: °°Àº ¹üÁÖµé³¢¸® ¾ó¸¶³ª ¸¹ÀÌ Æ÷ÇÔµÇ¾î ÀÖ´Â °¡¸¦ ³ªÅ¸³À´Ï´Ù.
+* ë¶ˆìˆœë„: ë‹¤ì–‘í•œ ë²”ì£¼ë“¤ì˜ ì–¼ë§ˆë‚˜ ë§Žì´ ì„žì—¬ìžˆëŠ” ê°€ë¥¼ ë‚˜íƒ€ëƒ…ë‹ˆë‹¤.
+* ìˆœìˆ˜ë„: ê°™ì€ ë²”ì£¼ë“¤ë¼ë¦¬ ì–¼ë§ˆë‚˜ ë§Žì´ í¬í•¨ë˜ì–´ ìžˆëŠ” ê°€ë¥¼ ë‚˜íƒ€ëƒ…ë‹ˆë‹¤.
 
-* ºÒ¼øµµÀÇ ÃøÁ¤
-	* ¹üÁÖÇüÀÏ ¶§
-		- Ä«ÀÌÁ¦°ö Åë°è·®
-		- Áö´ÏÁö¼ö
-		- ¿£Æ®·ÎÇÇ Áö¼ö
-	* ¿¬¼ÓÇüÀÏ ¶§
-		- ºÐ»êºÐ¼®¿¡ ÀÇÇÑ F-Åë°è·®
-		- ºÐ»êÀÇ °¨¼Ò·®
+* ë¶ˆìˆœë„ì˜ ì¸¡ì •
+	* ë²”ì£¼í˜•ì¼ ë•Œ
+		- ì¹´ì´ì œê³± í†µê³„ëŸ‰
+		- ì§€ë‹ˆì§€ìˆ˜
+		- ì—”íŠ¸ë¡œí”¼ ì§€ìˆ˜
+	* ì—°ì†í˜•ì¼ ë•Œ
+		- ë¶„ì‚°ë¶„ì„ì— ì˜í•œ F-í†µê³„ëŸ‰
+		- ë¶„ì‚°ì˜ ê°ì†ŒëŸ‰
 
 ```
 
-## 5. ½Å°æ¸Á
+## 5. ì‹ ê²½ë§
 
-- **½Å°æ¸Á**
+- **ì‹ ê²½ë§**
 
 ```xml
-* ½Å°æ¸Á: ÀÎ°£ÀÇ µÎ³ú ±¸Á¶¸¦ ¸ð¹æÇÑ ÁöµµÇÐ½À ¹æ¹ýÀ¸·Î¼­ ¿©·¯ °³ÀÇ ´º·±µéÀÌ »óÈ£ ¿¬°áÇÏ¿© ÀÔ·Â°ª¿¡
-	´ëÇÑ ÃÖÀûÀÇ Ãâ·Â°ªÀ» ¿¹ÃøÇØÁÖ´Â ¸ðÇüÀÔ´Ï´Ù.
+* ì‹ ê²½ë§: ì¸ê°„ì˜ ë‘ë‡Œ êµ¬ì¡°ë¥¼ ëª¨ë°©í•œ ì§€ë„í•™ìŠµ ë°©ë²•ìœ¼ë¡œì„œ ì—¬ëŸ¬ ê°œì˜ ë‰´ëŸ°ë“¤ì´ ìƒí˜¸ ì—°ê²°í•˜ì—¬ ìž…ë ¥ê°’ì—
+	ëŒ€í•œ ìµœì ì˜ ì¶œë ¥ê°’ì„ ì˜ˆì¸¡í•´ì£¼ëŠ” ëª¨í˜•ìž…ë‹ˆë‹¤.
 
-* ¿ë¾îÁ¤¸®
-	- MLP( Multi-Layer Perceptron ): ÀÔ·ÂÃþ, Àº´ÐÃþ, Ãâ·ÂÃþÀ¸·Î ±¸¼º
-	- SLP( Single-Layer Perceptron ): ÀÔ·ÂÃþ, Ãâ·ÂÃþÀ¸·Î¸¸ ±¸¼º
-	- ÀÔ·ÂÃþ: °¢ ÀÔ·Âº¯¼ö¿¡ ´ëÀÀµÇ´Â ³ëµå·Î ±¸¼º. ³ëµåÀÇ ¼ö´Â ÀÔ·Âº¯¼öÀÇ °³¼ö¿Í °°À½
-	- Àº´ÐÃþ: ÀÔ·ÂÃþÀ¸·ÎºÎÅÍ Àü´ÞµÇ´Â º¯¼ö°ªµéÀÇ ¼±Çü°áÇÕÀ» ºñ¼±ÇüÇÔ¼ö·Î Ã³¸®ÇÏ¿© Ãâ·ÂÃþ ¶Ç´Â
-			´Ù¸¥ Àº´ÐÃþ¿¡ Àü´ÞÇØÁØ´Ù.
-	- Ãâ·ÂÃþ: ¸ñÇ¥º¯¼ö¿¡ ´ëÀÀµÇ´Â ³ëµå·Î¼­ ºÐ·ù¸ðÇü¿¡¼­´Â ±×·ìÀÇ ¼ö ¸¸Å­ÀÇ Ãâ·Â³ëµå°¡ »ý¼ºµË´Ï´Ù.
-	- È°¼ºÈ­ ÇÔ¼ö: ÀÔ·Â ½ÅÈ£ÀÇ ÃÑÇÕÀ» Ãâ·Â ½ÅÈ£·Î º¯È¯ÇÏ´Â ÇÔ¼ö¸¦ ÀÏ¹ÝÀûÀ¸·Î È°¼ºÈ­ ÇÔ¼ö¶ó°í ÇÕ´Ï´Ù.
+* ìš©ì–´ì •ë¦¬
+	- MLP( Multi-Layer Perceptron ): ìž…ë ¥ì¸µ, ì€ë‹‰ì¸µ, ì¶œë ¥ì¸µìœ¼ë¡œ êµ¬ì„±
+	- SLP( Single-Layer Perceptron ): ìž…ë ¥ì¸µ, ì¶œë ¥ì¸µìœ¼ë¡œë§Œ êµ¬ì„±
+	- ìž…ë ¥ì¸µ: ê° ìž…ë ¥ë³€ìˆ˜ì— ëŒ€ì‘ë˜ëŠ” ë…¸ë“œë¡œ êµ¬ì„±. ë…¸ë“œì˜ ìˆ˜ëŠ” ìž…ë ¥ë³€ìˆ˜ì˜ ê°œìˆ˜ì™€ ê°™ìŒ
+	- ì€ë‹‰ì¸µ: ìž…ë ¥ì¸µìœ¼ë¡œë¶€í„° ì „ë‹¬ë˜ëŠ” ë³€ìˆ˜ê°’ë“¤ì˜ ì„ í˜•ê²°í•©ì„ ë¹„ì„ í˜•í•¨ìˆ˜ë¡œ ì²˜ë¦¬í•˜ì—¬ ì¶œë ¥ì¸µ ë˜ëŠ”
+			ë‹¤ë¥¸ ì€ë‹‰ì¸µì— ì „ë‹¬í•´ì¤€ë‹¤.
+	- ì¶œë ¥ì¸µ: ëª©í‘œë³€ìˆ˜ì— ëŒ€ì‘ë˜ëŠ” ë…¸ë“œë¡œì„œ ë¶„ë¥˜ëª¨í˜•ì—ì„œëŠ” ê·¸ë£¹ì˜ ìˆ˜ ë§Œí¼ì˜ ì¶œë ¥ë…¸ë“œê°€ ìƒì„±ë©ë‹ˆë‹¤.
+	- í™œì„±í™” í•¨ìˆ˜: ìž…ë ¥ ì‹ í˜¸ì˜ ì´í•©ì„ ì¶œë ¥ ì‹ í˜¸ë¡œ ë³€í™˜í•˜ëŠ” í•¨ìˆ˜ë¥¼ ì¼ë°˜ì ìœ¼ë¡œ í™œì„±í™” í•¨ìˆ˜ë¼ê³  í•©ë‹ˆë‹¤.
 ```
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2111a936-1048-4439-9d49-9340e39fbc32/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210907%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210907T085942Z&X-Amz-Expires=86400&X-Amz-Signature=22026a51f4c0f7dd3c73faba64c6eaec420185032883f784c0d284223faafa39&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
 
-- **´ÙÃþ ½Å°æ¸Á(MLP)**
+- **ë‹¤ì¸µ ì‹ ê²½ë§(MLP)**
 
 ```xml
-* ´ÙÃþ½Å°æ¸Á: °è»êÃþÀÌ ¿©·¯ °³ÀÌ¸ç, Ãß°¡ÀûÀÎ Áß°£ °è»êÃþÀ» Àº´ÐÃþÀÌ¶ó°í ºÎ¸¥´Ù. 
-	¸ðµç °è»êÃþÀÌ ÀÚ½ÅÀÇ °è»ê °á°ú¸¦ ÀÔ·Â¿¡¼­ Ãâ·ÂÀ¸·ÎÀÇ ¼ø¹æÇâÀ¸·Î Àü´ÞÇÏ´Â ±¸Á¶¸¦ 
-	¼ø¹æÇâ½Å°æ¸ÁÀÌ¶ó°í ÇÑ´Ù.
+* ë‹¤ì¸µì‹ ê²½ë§: ê³„ì‚°ì¸µì´ ì—¬ëŸ¬ ê°œì´ë©°, ì¶”ê°€ì ì¸ ì¤‘ê°„ ê³„ì‚°ì¸µì„ ì€ë‹‰ì¸µì´ë¼ê³  ë¶€ë¥¸ë‹¤. 
+	ëª¨ë“  ê³„ì‚°ì¸µì´ ìžì‹ ì˜ ê³„ì‚° ê²°ê³¼ë¥¼ ìž…ë ¥ì—ì„œ ì¶œë ¥ìœ¼ë¡œì˜ ìˆœë°©í–¥ìœ¼ë¡œ ì „ë‹¬í•˜ëŠ” êµ¬ì¡°ë¥¼ 
+	ìˆœë°©í–¥ì‹ ê²½ë§ì´ë¼ê³  í•œë‹¤.
 
-* ½Ã±×¸ðÀÌµå ÇÔ¼ö: ½Å°æ¸Á ¾È¿¡¼­ µ¥ÀÌÅÍµéÀ» Ã³¸®ÇÒ ¶§ °è´ÜÇÔ¼ö(0°ú 1ÀÌ °á°ú°ª)°¡ ¾Æ´Ñ sÀÚ
-	°î¼± ÇÔ¼öÀÎ ½Ã±×¸ðÀÌµå ÇÔ¼ö¸¦ ÀÌ¿ëÇÏ¸é ´õ ´Ù¾çÇÑ Ã³¸®°¡ °¡´ÉÇØÁý´Ï´Ù.
-	´Ü±Ø¼º, ¾ç±Ø¼º µÎ Á¾·ù°¡ ÀÖÀ½
-	* ´Ü±Ø¼º: Áõ°¡ÇÔ¼öÀÌ¸ç, Ãâ·Â°ªÀÌ 0°ú 1»çÀÌÀÇ °ªÀ» °®½À´Ï´Ù. ·ÎÁö½ºÆ½ ÇÔ¼ö¿Í À¯»çÇÕ´Ï´Ù.
-	* ¾ç±Ø¼º: Áõ°¡ÇÔ¼öÀÌ¸ç, -1°ú 1»çÀÌÀÇ °ªÀ» °®°í f(0) = 0ÀÔ´Ï´Ù.
+* ì‹œê·¸ëª¨ì´ë“œ í•¨ìˆ˜: ì‹ ê²½ë§ ì•ˆì—ì„œ ë°ì´í„°ë“¤ì„ ì²˜ë¦¬í•  ë•Œ ê³„ë‹¨í•¨ìˆ˜(0ê³¼ 1ì´ ê²°ê³¼ê°’)ê°€ ì•„ë‹Œ sìž
+	ê³¡ì„  í•¨ìˆ˜ì¸ ì‹œê·¸ëª¨ì´ë“œ í•¨ìˆ˜ë¥¼ ì´ìš©í•˜ë©´ ë” ë‹¤ì–‘í•œ ì²˜ë¦¬ê°€ ê°€ëŠ¥í•´ì§‘ë‹ˆë‹¤.
+	ë‹¨ê·¹ì„±, ì–‘ê·¹ì„± ë‘ ì¢…ë¥˜ê°€ ìžˆìŒ
+	* ë‹¨ê·¹ì„±: ì¦ê°€í•¨ìˆ˜ì´ë©°, ì¶œë ¥ê°’ì´ 0ê³¼ 1ì‚¬ì´ì˜ ê°’ì„ ê°–ìŠµë‹ˆë‹¤. ë¡œì§€ìŠ¤í‹± í•¨ìˆ˜ì™€ ìœ ì‚¬í•©ë‹ˆë‹¤.
+	* ì–‘ê·¹ì„±: ì¦ê°€í•¨ìˆ˜ì´ë©°, -1ê³¼ 1ì‚¬ì´ì˜ ê°’ì„ ê°–ê³  f(0) = 0ìž…ë‹ˆë‹¤.
 
-* ¿ªÀüÆÄ ÇÐ½À ¹ýÄ¢
-	1. Ã³À½¿¡ °¡ÁßÄ¡´Â ·£´ý
-	2. ÈÆ·Ã ÀÔ·ÂÆÐÅÏÀ» ½Å°æ¸ÁÀÇ ÀÔ·ÂÃþ¿¡ Àü´Þ
-	3. ÀÔ·ÂÃþ¿¡¼­ Àº´ÐÃþ, Ãâ·ÂÃþ±îÁö ÀÔ·ÂÆÐÅÏÀ» ÀüÆÄ
-	4. Ãâ·Â ÆÐÅÏÀÌ ¸ñÇ¥ÆÐÅÏ°ú ´Ù¸£¸é ±× ¿ÀÂ÷¸¦ °è»êÇÑ ÈÄ Ãâ·ÂÃþ¿¡¼­ ÀÔ·ÂÃþ±îÁö ½Å°æ¸ÁÀ» µû¶ó¼­
-		°Å²Ù·Î ¿ÀÂ÷°¡ ÀüÆÄ
-	5. ¿ÀÂ÷¸¦ ÁÙÀÏ ¼ö ÀÖµµ·Ï °¡ÁßÄ¡ ÀçÁ¶Á¤
-	6. ¸ñÇ¥ÆÐÅÏ Ã£À» ¶§±îÁö À§ °úÁ¤ ¹Ýº¹
+* ì—­ì „íŒŒ í•™ìŠµ ë²•ì¹™
+	1. ì²˜ìŒì— ê°€ì¤‘ì¹˜ëŠ” ëžœë¤
+	2. í›ˆë ¨ ìž…ë ¥íŒ¨í„´ì„ ì‹ ê²½ë§ì˜ ìž…ë ¥ì¸µì— ì „ë‹¬
+	3. ìž…ë ¥ì¸µì—ì„œ ì€ë‹‰ì¸µ, ì¶œë ¥ì¸µê¹Œì§€ ìž…ë ¥íŒ¨í„´ì„ ì „íŒŒ
+	4. ì¶œë ¥ íŒ¨í„´ì´ ëª©í‘œíŒ¨í„´ê³¼ ë‹¤ë¥´ë©´ ê·¸ ì˜¤ì°¨ë¥¼ ê³„ì‚°í•œ í›„ ì¶œë ¥ì¸µì—ì„œ ìž…ë ¥ì¸µê¹Œì§€ ì‹ ê²½ë§ì„ ë”°ë¼ì„œ
+		ê±°ê¾¸ë¡œ ì˜¤ì°¨ê°€ ì „íŒŒ
+	5. ì˜¤ì°¨ë¥¼ ì¤„ì¼ ìˆ˜ ìžˆë„ë¡ ê°€ì¤‘ì¹˜ ìž¬ì¡°ì •
+	6. ëª©í‘œíŒ¨í„´ ì°¾ì„ ë•Œê¹Œì§€ ìœ„ ê³¼ì • ë°˜ë³µ
 
-* °æ»çÇÏ°­¹ý( ¿ªÀüÆÄ ¾Ë°í¸®Áò )
-	* ÇÔ¼ö ÃÖÀûÈ­ ¹®Á¦: ¾î¶² ¸ñÀûÇÔ¼ö°¡ ÀÖÀ» ¶§ ÀÌ ÇÔ¼ö¸¦ ÃÖ´ë È¤Àº ÃÖ¼Ò·Î ÇÏ´Â º¯¼ö³ª ÆÄ¶ó¹ÌÅÍÀÇ
-		°ªÀ» Ã£´Â ¹®Á¦.
-	* ±×·¡µð¾ðÆ®: ÇÔ¼öÀÇ Æ¯Á¤ À§Ä¡¿¡¼­ ÇÔ¼öÀÇ °ªÀÌ °¡Àå Ä¿Áö´Â ÀÎÁ¢ÇÑ À§Ä¡·ÎÀÇ ¹æÇâÀ» ³ªÅ¸³¿(¹ÌºÐ°ª)
-	* °æ»çÇÏ°­¹ý: ÇÔ¼öÀÇ ±×·¹µð¾ðÆ®¸¦ »ç¿ëÇÏ¿© ÇÔ¼öÀÇ °ªÀÌ ÃÖ¼Ò°¡ µÇ´Â À§Ä¡ÀÇ ÆÄ¶ó¹ÌÅÍ¸¦ Ã£´Â ¹æ¹ýÀÔ´Ï´Ù.
-	* ¿ªÀüÆÄ ¾Ë°í¸®ÁòÀº °æ»ç ÇÏ°­¹ýÀ» Àû¿ëÇÏ¿© ¿ÀÂ÷ ÇÔ¼öÀÇ °ªÀÌ ÃÖ¼Ò°¡ µÇ´Â °¡ÁßÄ¡¸¦ Ã£´Â ÇÐ½À ¾Ë°í¸®ÁòÀÔ´Ï´Ù.
-	* ´Ü¼øÈ÷ °æ»çÇÏ°­¹ýÀ» »ç¿ëÇÏ¸é ±Ø¼Ú°ª¸¸ Ã£´Â °æ¿ì°¡ ÀÖ´Âµ¥ ÀÌ¸¦ ¹æÁöÇÏ±â À§ÇØ ÃÊ±â°ªÀ» ¿©·¯ °³
-		µÎ¾î¼­ ±Ø¼Ò°ªÀÌ ¾Æ´Ñ ÃÖ¼Ò°ªÀ» Ã£¾Æ¾ß ÇÑ´Ù.
+* ê²½ì‚¬í•˜ê°•ë²•( ì—­ì „íŒŒ ì•Œê³ ë¦¬ì¦˜ )
+	* í•¨ìˆ˜ ìµœì í™” ë¬¸ì œ: ì–´ë–¤ ëª©ì í•¨ìˆ˜ê°€ ìžˆì„ ë•Œ ì´ í•¨ìˆ˜ë¥¼ ìµœëŒ€ í˜¹ì€ ìµœì†Œë¡œ í•˜ëŠ” ë³€ìˆ˜ë‚˜ íŒŒë¼ë¯¸í„°ì˜
+		ê°’ì„ ì°¾ëŠ” ë¬¸ì œ.
+	* ê·¸ëž˜ë””ì–¸íŠ¸: í•¨ìˆ˜ì˜ íŠ¹ì • ìœ„ì¹˜ì—ì„œ í•¨ìˆ˜ì˜ ê°’ì´ ê°€ìž¥ ì»¤ì§€ëŠ” ì¸ì ‘í•œ ìœ„ì¹˜ë¡œì˜ ë°©í–¥ì„ ë‚˜íƒ€ëƒ„(ë¯¸ë¶„ê°’)
+	* ê²½ì‚¬í•˜ê°•ë²•: í•¨ìˆ˜ì˜ ê·¸ë ˆë””ì–¸íŠ¸ë¥¼ ì‚¬ìš©í•˜ì—¬ í•¨ìˆ˜ì˜ ê°’ì´ ìµœì†Œê°€ ë˜ëŠ” ìœ„ì¹˜ì˜ íŒŒë¼ë¯¸í„°ë¥¼ ì°¾ëŠ” ë°©ë²•ìž…ë‹ˆë‹¤.
+	* ì—­ì „íŒŒ ì•Œê³ ë¦¬ì¦˜ì€ ê²½ì‚¬ í•˜ê°•ë²•ì„ ì ìš©í•˜ì—¬ ì˜¤ì°¨ í•¨ìˆ˜ì˜ ê°’ì´ ìµœì†Œê°€ ë˜ëŠ” ê°€ì¤‘ì¹˜ë¥¼ ì°¾ëŠ” í•™ìŠµ ì•Œê³ ë¦¬ì¦˜ìž…ë‹ˆë‹¤.
+	* ë‹¨ìˆœížˆ ê²½ì‚¬í•˜ê°•ë²•ì„ ì‚¬ìš©í•˜ë©´ ê·¹ì†Ÿê°’ë§Œ ì°¾ëŠ” ê²½ìš°ê°€ ìžˆëŠ”ë° ì´ë¥¼ ë°©ì§€í•˜ê¸° ìœ„í•´ ì´ˆê¸°ê°’ì„ ì—¬ëŸ¬ ê°œ
+		ë‘ì–´ì„œ ê·¹ì†Œê°’ì´ ì•„ë‹Œ ìµœì†Œê°’ì„ ì°¾ì•„ì•¼ í•œë‹¤.
 ```
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6a5d63eb-32b1-4a12-b731-1a5a7737b97c/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210907%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210907T085951Z&X-Amz-Expires=86400&X-Amz-Signature=a4ae6ca6c9c3f50cd86d4aa714a90a18f461752fb1eb6139c1dfada59f2e33cd&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
 
-## 6. ¿¬°ü¼º ºÐ¼®
+## 6. ì—°ê´€ì„± ë¶„ì„
 
-- **¿¬°ü¼ººÐ¼®**
+- **ì—°ê´€ì„±ë¶„ì„**
 
 ```xml
-* ¿¬°ü¼º ºÐ¼®: µ¥ÀÌÅÍ ¾È¿¡ Á¸ÀçÇÏ´Â Ç×¸ñµé°£ÀÇ ¿¬°ü±ÔÄ¢À» ¹ß°ßÇÏ´Â ±â¹ý
-	ÀÌ¸¦ ÅëÇØ ¼Õ´ÔÀÇ Àå¹Ù±¸´Ï¿¡ µé¾îÀÖ´Â Ç°¸ñ°£ÀÇ °ü°è¸¦ ¾Ë¾Æº»´Ù´Â ÀÇ¹Ì¿¡¼­ Àå¹Ù±¸´Ï ºÐ¼®ÀÌ¶ó°í ÇÔ
+* ì—°ê´€ì„± ë¶„ì„: ë°ì´í„° ì•ˆì— ì¡´ìž¬í•˜ëŠ” í•­ëª©ë“¤ê°„ì˜ ì—°ê´€ê·œì¹™ì„ ë°œê²¬í•˜ëŠ” ê¸°ë²•
+	ì´ë¥¼ í†µí•´ ì†ë‹˜ì˜ ìž¥ë°”êµ¬ë‹ˆì— ë“¤ì–´ìžˆëŠ” í’ˆëª©ê°„ì˜ ê´€ê³„ë¥¼ ì•Œì•„ë³¸ë‹¤ëŠ” ì˜ë¯¸ì—ì„œ ìž¥ë°”êµ¬ë‹ˆ ë¶„ì„ì´ë¼ê³  í•¨
 ```
 
-- **¿¬°ü¼º ±ÔÄ¢**
+- **ì—°ê´€ì„± ê·œì¹™**
 
 ```xml
-* À¯¿ëÇÑ ±ÔÄ¢: (¿¹) ¸ñ¿äÀÏ ½Ä·áÇ° °¡°Ô¸¦ Ã£´Â °í°´Àº ¾Æ±â ±âÀú±Í¿Í ¸ÆÁÖ¸¦ ÇÔ²² ±¸ÀÔÇÏ´Â 
-	°æÇâÀÌ ÀÖ´Ù
-* ÀÚ¸íÇÑ ±ÔÄ¢: (¿¹) ÇÑ È¸»çÀÇ ÀüÀÚÁ¦Ç°À» ±¸¸ÅÇÏ´ø °í°´Àº ÀüÀÚÁ¦Ç°À» »ì ¶§ °°Àº È¸»çÀÇ Á¦Ç°À» 
-	»ç´Â °æÇâÀÌ ÀÖ´Ù
-* ¼³¸íÀÌ ºÒ°¡´ÉÇÑ ±ÔÄ¢: (¿¹) »õ·Î ¿¬ °ÇÃà ÀÚÀçÁ¡¿¡¼­´Â º¯±âµ¤°Ô°¡ ¸¹ÀÌ ÆÈ¸°´Ù
+* ìœ ìš©í•œ ê·œì¹™: (ì˜ˆ) ëª©ìš”ì¼ ì‹ë£Œí’ˆ ê°€ê²Œë¥¼ ì°¾ëŠ” ê³ ê°ì€ ì•„ê¸° ê¸°ì €ê·€ì™€ ë§¥ì£¼ë¥¼ í•¨ê»˜ êµ¬ìž…í•˜ëŠ” 
+	ê²½í–¥ì´ ìžˆë‹¤
+* ìžëª…í•œ ê·œì¹™: (ì˜ˆ) í•œ íšŒì‚¬ì˜ ì „ìžì œí’ˆì„ êµ¬ë§¤í•˜ë˜ ê³ ê°ì€ ì „ìžì œí’ˆì„ ì‚´ ë•Œ ê°™ì€ íšŒì‚¬ì˜ ì œí’ˆì„ 
+	ì‚¬ëŠ” ê²½í–¥ì´ ìžˆë‹¤
+* ì„¤ëª…ì´ ë¶ˆê°€ëŠ¥í•œ ê·œì¹™: (ì˜ˆ) ìƒˆë¡œ ì—° ê±´ì¶• ìžìž¬ì ì—ì„œëŠ” ë³€ê¸°ë®ê²Œê°€ ë§Žì´ íŒ”ë¦°ë‹¤
 ```
 
-- **¿¬°ü¼ººÐ¼®ÀÇ Ãøµµ**
+- **ì—°ê´€ì„±ë¶„ì„ì˜ ì¸¡ë„**
 
 ```xml
-* ÁöÁöµµ: µÎ Ç°¸ñ A¿Í BÀÇ ÁöÁöµµ´Â ÀüÃ¼ °Å·¡Ç×¸ñ Áß Ç×¸ñA¿Í Ç×¸ñB°¡ µ¿½Ã¿¡ Æ÷ÇÔÇÏ´Â °Å·¡ÀÇ ºñÀ²
-	ÁöÁöµµ = P(A ¡û B) = A¿Í B°¡ µ¿½Ã¿¡ Æ÷ÇÔµÈ °Å·¡¼ö / ÀüÃ¼ °Å·¡¼ö
-* ½Å·Úµµ
-* Çâ»óµµ: 3°¡Áö Ç°¸ñÀ» Æ÷ÇÔÇÏ´Â ¿¬°ü¼º ±ÔÄ¢ Áß °¡Àå ½Å·Úµµ°¡ ³ôÀº ±ÔÄ¢Àº "B¿Í C¸¦ ±¸¸ÅÇÏ¸é
-	Aµµ ±¸¸ÅÇÑ´Ù."ÀÌ¸ç ÀÌ ¿¬°ü¼º ±ÔÄ¢ÀÇ ½Å·Úµµ´Â ½Å·Úµµ ±¸ÇÏ´Â °ø½Ä¿¡ ÀÇÇØ ±¸ÇÒ ¼ö ÀÖ½À´Ï´Ù.
+* ì§€ì§€ë„: ë‘ í’ˆëª© Aì™€ Bì˜ ì§€ì§€ë„ëŠ” ì „ì²´ ê±°ëž˜í•­ëª© ì¤‘ í•­ëª©Aì™€ í•­ëª©Bê°€ ë™ì‹œì— í¬í•¨í•˜ëŠ” ê±°ëž˜ì˜ ë¹„ìœ¨
+	ì§€ì§€ë„ = P(A âˆ© B) = Aì™€ Bê°€ ë™ì‹œì— í¬í•¨ëœ ê±°ëž˜ìˆ˜ / ì „ì²´ ê±°ëž˜ìˆ˜
+* ì‹ ë¢°ë„
+* í–¥ìƒë„: 3ê°€ì§€ í’ˆëª©ì„ í¬í•¨í•˜ëŠ” ì—°ê´€ì„± ê·œì¹™ ì¤‘ ê°€ìž¥ ì‹ ë¢°ë„ê°€ ë†’ì€ ê·œì¹™ì€ "Bì™€ Cë¥¼ êµ¬ë§¤í•˜ë©´
+	Aë„ êµ¬ë§¤í•œë‹¤."ì´ë©° ì´ ì—°ê´€ì„± ê·œì¹™ì˜ ì‹ ë¢°ë„ëŠ” ì‹ ë¢°ë„ êµ¬í•˜ëŠ” ê³µì‹ì— ì˜í•´ êµ¬í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤.
 ```
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/69e939a7-d31c-4643-891c-824ae903cb23/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210907%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210907T090000Z&X-Amz-Expires=86400&X-Amz-Signature=af35575d6d3d1ff35faed2a269a656ec70bb8e56c3c2573b173f73a2680bfa11&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/0735cc7e-8fc9-4698-b630-3cc2bd246984/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210907%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210907T090008Z&X-Amz-Expires=86400&X-Amz-Signature=84904b088e3031f4717b3d1551dc122ddedbe20679a26b4e48237857a36f670f&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
 
-## 7. ±ºÁýºÐ¼®
+## 7. êµ°ì§‘ë¶„ì„
 
-- **±ºÁýºÐ¼®**
+- **êµ°ì§‘ë¶„ì„**
 
 ```xml
-¸ðÁý´Ü ¶Ç´Â ¹üÁÖ¿¡ ´ëÇÑ »çÀü Á¤º¸°¡ ¾ø´Â °æ¿ì ÁÖ¾îÁø °üÃø°ªµé »çÀÌÀÇ °Å¸® ¶Ç´Â À¯»ç¼ºÀ» ÀÌ¿ëÇÏ¿©
-ÀüÃ¼¸¦ ¸î °³ÀÇ Áý´ÜÀ¸·Î ±×·ìÈ­ÇÏ¿© °¢ Áý´ÜÀÇ ¼º°ÝÀ» ÆÄ¾ÇÇÔÀ¸·Î½á µ¥ÀÌÅÍ ÀüÃ¼ÀÇ ±¸Á¶¿¡ ´ëÇÑ
-ÀÌÇØ¸¦ µ½°íÀÚ ÇÏ´Â ºÐ¼®¹ý
-* ±ºÁýÈ­
-	* ±ºÁýÈ­ÀÇ ±âÁØ: µ¿ÀÏÇÑ ±ºÁý¿¡ ¼ÓÇÏ´Â °³Ã¼´Â ¿©·¯ ¼Ó¼ºÀÌ ºñ½ÁÇÏ°í, ¼­·Î ´Ù¸¥ ±ºÁý¿¡ ¼ÓÇÑ
-		°üÂûÄ¡´Â ±×·¸Áö ¾Êµµ·Ï ±¸¼º
+ëª¨ì§‘ë‹¨ ë˜ëŠ” ë²”ì£¼ì— ëŒ€í•œ ì‚¬ì „ ì •ë³´ê°€ ì—†ëŠ” ê²½ìš° ì£¼ì–´ì§„ ê´€ì¸¡ê°’ë“¤ ì‚¬ì´ì˜ ê±°ë¦¬ ë˜ëŠ” ìœ ì‚¬ì„±ì„ ì´ìš©í•˜ì—¬
+ì „ì²´ë¥¼ ëª‡ ê°œì˜ ì§‘ë‹¨ìœ¼ë¡œ ê·¸ë£¹í™”í•˜ì—¬ ê° ì§‘ë‹¨ì˜ ì„±ê²©ì„ íŒŒì•…í•¨ìœ¼ë¡œì¨ ë°ì´í„° ì „ì²´ì˜ êµ¬ì¡°ì— ëŒ€í•œ
+ì´í•´ë¥¼ ë•ê³ ìž í•˜ëŠ” ë¶„ì„ë²•
+* êµ°ì§‘í™”
+	* êµ°ì§‘í™”ì˜ ê¸°ì¤€: ë™ì¼í•œ êµ°ì§‘ì— ì†í•˜ëŠ” ê°œì²´ëŠ” ì—¬ëŸ¬ ì†ì„±ì´ ë¹„ìŠ·í•˜ê³ , ì„œë¡œ ë‹¤ë¥¸ êµ°ì§‘ì— ì†í•œ
+		ê´€ì°°ì¹˜ëŠ” ê·¸ë ‡ì§€ ì•Šë„ë¡ êµ¬ì„±
 ```
 
-- **°Å¸®**
+- **ê±°ë¦¬**
 
 ```xml
-±ºÁýºÐ¼®¿¡¼­´Â °üÃø°ªµéÀÌ ¼­·Î ¾ó¸¶³ª À¯»çÇÑ Áö ¶Ç´Â À¯»çÇÏÁö ¾ÊÀº Áö¸¦ ÃøÁ¤ÇÒ ¼ö ÀÖ´Â Ãøµµ°¡ ÇÊ¿ä
-º¸Åë À¯»ç¼ºº¸´Ù´Â ºñÀ¯»ç¼ºÀ» ±âÁØÀ¸·Î ÇÏ¸ç °Å¸®¸¦ »ç¿ëÇÕ´Ï´Ù.
+êµ°ì§‘ë¶„ì„ì—ì„œëŠ” ê´€ì¸¡ê°’ë“¤ì´ ì„œë¡œ ì–¼ë§ˆë‚˜ ìœ ì‚¬í•œ ì§€ ë˜ëŠ” ìœ ì‚¬í•˜ì§€ ì•Šì€ ì§€ë¥¼ ì¸¡ì •í•  ìˆ˜ ìžˆëŠ” ì¸¡ë„ê°€ í•„ìš”
+ë³´í†µ ìœ ì‚¬ì„±ë³´ë‹¤ëŠ” ë¹„ìœ ì‚¬ì„±ì„ ê¸°ì¤€ìœ¼ë¡œ í•˜ë©° ê±°ë¦¬ë¥¼ ì‚¬ìš©í•©ë‹ˆë‹¤.
 ```
 
-- **°èÃþÀû ±ºÁýºÐ¼®**
+- **ê³„ì¸µì  êµ°ì§‘ë¶„ì„**
 
 ```xml
-°¡±î¿î °üÃø°ªµé³¢¸® ¹­´Â º´ÇÕ¹æ¹ý°ú ¸Õ °üÃø°ªµéÀ» ³ª´©¾î°¡´Â ºÐÇÒ ¹æ¹ýÀÌ ÀÖ½À´Ï´Ù. 
-ÁÖ·Î º´ÇÕ ¹æ¹ýÀÌ »ç¿ëµË´Ï´Ù.
+ê°€ê¹Œìš´ ê´€ì¸¡ê°’ë“¤ë¼ë¦¬ ë¬¶ëŠ” ë³‘í•©ë°©ë²•ê³¼ ë¨¼ ê´€ì¸¡ê°’ë“¤ì„ ë‚˜ëˆ„ì–´ê°€ëŠ” ë¶„í•  ë°©ë²•ì´ ìžˆìŠµë‹ˆë‹¤. 
+ì£¼ë¡œ ë³‘í•© ë°©ë²•ì´ ì‚¬ìš©ë©ë‹ˆë‹¤.
 
-* º´ÇÕ¹æ¹ý
-	1. Ã³À½¿¡ n°³ÀÇ ÀÚ·á¸¦ °¢°¢ ÇÏ³ªÀÇ ±ºÁýÀ¸·Î Ãë±Þ
-	2. n°³ÀÇ ±ºÁý Áß °¡Àå °Å¸®°¡ °¡±î¿î µÎ °³ÀÇ ±ºÁýÀ» º´ÇÕÇÏ¿© n-1°³ÀÇ ±ºÁý Çü¼º
-	3. n-1°³ÀÇ ±ºÁý Áß °¡Àå °¡±î¿î µÎ ±ºÁýÀ» º´ÇÕÇÏ¿© ±ºÁýÀ» n-2°³·Î ÁÙÀÓ
-	4. ÀÌ¸¦ ¹Ýº¹ÇÏ¿© °è¼ÓÇÏ¿© ±ºÁýÀÇ ¼ö¸¦ ÁÙÀÓ
-	5. ÀÌ °úÁ¤Àº ½ÃÀÛºÎºÐ¿¡´Â ±ºÁýÀÇ Å©±â´Â ÀÛ°í µ¿ÁúÀûÀÌ¸ç, 
-		³¡ºÎºÐ¿¡¼­´Â ±ºÁýÀÇ Å©±â´Â Ä¿Áö°í ÀÌÁúÀûÀÌ µË´Ï´Ù.
-	±ºÁýµé°£ÀÇ °Å¸®¸¦ ÃøÁ¤ÇÏ´Â ¹æ¹ýÀº ¿©·¯°¡Áö°¡ ÀÖ½À´Ï´Ù.( ÃÖ´Ü°Å¸®, ÃÖÀå°Å¸®, Æò±Õ°Å¸® µîµî )
+* ë³‘í•©ë°©ë²•
+	1. ì²˜ìŒì— nê°œì˜ ìžë£Œë¥¼ ê°ê° í•˜ë‚˜ì˜ êµ°ì§‘ìœ¼ë¡œ ì·¨ê¸‰
+	2. nê°œì˜ êµ°ì§‘ ì¤‘ ê°€ìž¥ ê±°ë¦¬ê°€ ê°€ê¹Œìš´ ë‘ ê°œì˜ êµ°ì§‘ì„ ë³‘í•©í•˜ì—¬ n-1ê°œì˜ êµ°ì§‘ í˜•ì„±
+	3. n-1ê°œì˜ êµ°ì§‘ ì¤‘ ê°€ìž¥ ê°€ê¹Œìš´ ë‘ êµ°ì§‘ì„ ë³‘í•©í•˜ì—¬ êµ°ì§‘ì„ n-2ê°œë¡œ ì¤„ìž„
+	4. ì´ë¥¼ ë°˜ë³µí•˜ì—¬ ê³„ì†í•˜ì—¬ êµ°ì§‘ì˜ ìˆ˜ë¥¼ ì¤„ìž„
+	5. ì´ ê³¼ì •ì€ ì‹œìž‘ë¶€ë¶„ì—ëŠ” êµ°ì§‘ì˜ í¬ê¸°ëŠ” ìž‘ê³  ë™ì§ˆì ì´ë©°, 
+		ëë¶€ë¶„ì—ì„œëŠ” êµ°ì§‘ì˜ í¬ê¸°ëŠ” ì»¤ì§€ê³  ì´ì§ˆì ì´ ë©ë‹ˆë‹¤.
+	êµ°ì§‘ë“¤ê°„ì˜ ê±°ë¦¬ë¥¼ ì¸¡ì •í•˜ëŠ” ë°©ë²•ì€ ì—¬ëŸ¬ê°€ì§€ê°€ ìžˆìŠµë‹ˆë‹¤.( ìµœë‹¨ê±°ë¦¬, ìµœìž¥ê±°ë¦¬, í‰ê· ê±°ë¦¬ ë“±ë“± )
 
-* ÃÖ´Ü¿¬°á¹ý: µÎ ±ºÁý »çÀÌÀÇ °Å¸®¸¦ °¢ ±ºÁý¿¡¼­ ÇÏ³ª¾¿ °üÃø°ªÀ» »Ì¾ÒÀ» ¶§ ³ªÅ¸³¯ ¼ö ÀÖ´Â
-	°Å¸®ÀÇ ÃÖ¼Ò°ªÀ¸·Î ÃøÁ¤
-* ÃÖÀå¿¬°á¹ý: µÎ ±ºÁý »çÀÌÀÇ °Å¸®¸¦ °¢ ±ºÁý¿¡¼­ ÇÏ³ª¾¿ °üÃø°ªÀ» »Ì¾ÒÀ» ¶§ ³ªÅ¸³¯ ¼ö ÀÖ´Â
-	°Å¸®ÀÇ ÃÖ´ë°ªÀ¸·Î ÃøÁ¤
+* ìµœë‹¨ì—°ê²°ë²•: ë‘ êµ°ì§‘ ì‚¬ì´ì˜ ê±°ë¦¬ë¥¼ ê° êµ°ì§‘ì—ì„œ í•˜ë‚˜ì”© ê´€ì¸¡ê°’ì„ ë½‘ì•˜ì„ ë•Œ ë‚˜íƒ€ë‚  ìˆ˜ ìžˆëŠ”
+	ê±°ë¦¬ì˜ ìµœì†Œê°’ìœ¼ë¡œ ì¸¡ì •
+* ìµœìž¥ì—°ê²°ë²•: ë‘ êµ°ì§‘ ì‚¬ì´ì˜ ê±°ë¦¬ë¥¼ ê° êµ°ì§‘ì—ì„œ í•˜ë‚˜ì”© ê´€ì¸¡ê°’ì„ ë½‘ì•˜ì„ ë•Œ ë‚˜íƒ€ë‚  ìˆ˜ ìžˆëŠ”
+	ê±°ë¦¬ì˜ ìµœëŒ€ê°’ìœ¼ë¡œ ì¸¡ì •
 ```
 
-- **ºñ°èÃþÀû ±ºÁýºÐ¼®**
+- **ë¹„ê³„ì¸µì  êµ°ì§‘ë¶„ì„**
 
 ```xml
-* K-Æò±Õ ±ºÁý: »çÀü¿¡ °áÁ¤µÈ ±ºÁý¼ö K¿¡ ±âÃÊÇÏ¿© ÀüÃ¼ µ¥ÀÌÅÍ¸¦ »ó´ëÀûÀ¸·Î À¯»çÇÑ K°³ÀÇ ±ºÁýÀ¸·Î
-	±¸ºÐÇÕ´Ï´Ù. °üÃø°ª°£ÀÇ Æò±Õ°Å¸®¿Í ±ºÁý°£ÀÇ Æò±Õ°Å¸®¸¦ ºñ±³ÇÔÀ¸·Î½á ¼öÇàÇÕ´Ï´Ù.
-	°¡Àå ÁÁÀº ¹æ¹ýÀº ÀÚ·áÀÇ ½Ã°¢È­¸¦ ÅëÇÑ ÃÖÀû ±ºÁý¼ö KÀÇ °áÁ¤ÀÎµ¥, ÀÚ·áÀÇ ½Ã°¢È­¸¦ À§ÇØ¼­´Â
-	Â÷¿øÀÇ Ãà¼Ò°¡ ÇÊ¼öÀûÀÌ°í, ÀÌ¸¦ À§ÇÏ¿© ÁÖ¼ººÐ ºÐ¼®¹æ¹ýÀ» »ç¿ëÇÕ´Ï´Ù.
+* K-í‰ê·  êµ°ì§‘: ì‚¬ì „ì— ê²°ì •ëœ êµ°ì§‘ìˆ˜ Kì— ê¸°ì´ˆí•˜ì—¬ ì „ì²´ ë°ì´í„°ë¥¼ ìƒëŒ€ì ìœ¼ë¡œ ìœ ì‚¬í•œ Kê°œì˜ êµ°ì§‘ìœ¼ë¡œ
+	êµ¬ë¶„í•©ë‹ˆë‹¤. ê´€ì¸¡ê°’ê°„ì˜ í‰ê· ê±°ë¦¬ì™€ êµ°ì§‘ê°„ì˜ í‰ê· ê±°ë¦¬ë¥¼ ë¹„êµí•¨ìœ¼ë¡œì¨ ìˆ˜í–‰í•©ë‹ˆë‹¤.
+	ê°€ìž¥ ì¢‹ì€ ë°©ë²•ì€ ìžë£Œì˜ ì‹œê°í™”ë¥¼ í†µí•œ ìµœì  êµ°ì§‘ìˆ˜ Kì˜ ê²°ì •ì¸ë°, ìžë£Œì˜ ì‹œê°í™”ë¥¼ ìœ„í•´ì„œëŠ”
+	ì°¨ì›ì˜ ì¶•ì†Œê°€ í•„ìˆ˜ì ì´ê³ , ì´ë¥¼ ìœ„í•˜ì—¬ ì£¼ì„±ë¶„ ë¶„ì„ë°©ë²•ì„ ì‚¬ìš©í•©ë‹ˆë‹¤.
 
-* ´ÜÁ¡
-	- ±ºÁýÀÌ °ãÄ¡´Â °æ¿ì¿¡ ÁÁÁö ¾Ê½À´Ï´Ù.
-	- ÀÌ»óÄ¡¿¡ ¹Î°¨ÇÕ´Ï´Ù.
-	- °¢ °üÃø°ªÀÌ ÇÒ´çµÈ ±ºÁý¿¡ ¼ÓÇÏÁö ¾ÊÀ» °æ¿ì ºÒÈ®½Ç¼º¿¡ ´ëÇÑ ÃøÁ¤Ä¡°¡ ¾ø½À´Ï´Ù.
+* ë‹¨ì 
+	- êµ°ì§‘ì´ ê²¹ì¹˜ëŠ” ê²½ìš°ì— ì¢‹ì§€ ì•ŠìŠµë‹ˆë‹¤.
+	- ì´ìƒì¹˜ì— ë¯¼ê°í•©ë‹ˆë‹¤.
+	- ê° ê´€ì¸¡ê°’ì´ í• ë‹¹ëœ êµ°ì§‘ì— ì†í•˜ì§€ ì•Šì„ ê²½ìš° ë¶ˆí™•ì‹¤ì„±ì— ëŒ€í•œ ì¸¡ì •ì¹˜ê°€ ì—†ìŠµë‹ˆë‹¤.
 ```
 
-- **°¡¿ì½º È¥ÇÕ¸ðÇü**
+- **ê°€ìš°ìŠ¤ í˜¼í•©ëª¨í˜•**
 
 ```xml
-ÁÖ¾îÁø ±ºÁý¼ö K¿¡ ´ëÇÏ¿©, °¢ ±ºÁýÀÇ °üÃøÄ¡ÀÇ ºÐÆ÷°¡ ¹ÌÁöÀÇ Æò±Õ°ú ºÐ»êÀ» µû¸£´Â Á¤±ÔºÐÆ÷ °¡Á¤ÇÕ´Ï´Ù.
-ÀÚ·á¸¦ °¡Àå Àß ºÐ¸®ÇÒ ¼ö ÀÖ´Â ÃÖÀûÀÇ Æò±Õ°ú ºÐ»êÀ» ÃßÁ¤°ú ¿ìµµÇÔ¼öÀÇ ÃÖ´ëÈ­ÀÇ µÎ ´Ü°è¸¦ ¹Ýº¹ÀûÀ¸·Î
-¼öÇàÇÔÀ¸·Î½á ±¸ÇÕ´Ï´Ù.
+ì£¼ì–´ì§„ êµ°ì§‘ìˆ˜ Kì— ëŒ€í•˜ì—¬, ê° êµ°ì§‘ì˜ ê´€ì¸¡ì¹˜ì˜ ë¶„í¬ê°€ ë¯¸ì§€ì˜ í‰ê· ê³¼ ë¶„ì‚°ì„ ë”°ë¥´ëŠ” ì •ê·œë¶„í¬ ê°€ì •í•©ë‹ˆë‹¤.
+ìžë£Œë¥¼ ê°€ìž¥ ìž˜ ë¶„ë¦¬í•  ìˆ˜ ìžˆëŠ” ìµœì ì˜ í‰ê· ê³¼ ë¶„ì‚°ì„ ì¶”ì •ê³¼ ìš°ë„í•¨ìˆ˜ì˜ ìµœëŒ€í™”ì˜ ë‘ ë‹¨ê³„ë¥¼ ë°˜ë³µì ìœ¼ë¡œ
+ìˆ˜í–‰í•¨ìœ¼ë¡œì¨ êµ¬í•©ë‹ˆë‹¤.
 ```
 
-## 8. ±âÅ¸ ÁöµµÇÐ½À¹æ¹ý
+## 8. ê¸°íƒ€ ì§€ë„í•™ìŠµë°©ë²•
 
-- **K-±Ù¹æ ºÐ·ù**
+- **K-ê·¼ë°© ë¶„ë¥˜**
 
 ```xml
-½ÃÇèÀÚ·áÁ¡°ú °¡±î¿î k°³ÀÇ ÈÆ·ÃÀÚ·áÁ¡ÀÇ y°ªµéÀ» ºñ±³ÇÏ¿© °¡Àå ¸¹Àº class·Î ¿¹ÃøÇÏ´Â ¹æ¹ýÀÔ´Ï´Ù.
+ì‹œí—˜ìžë£Œì ê³¼ ê°€ê¹Œìš´ kê°œì˜ í›ˆë ¨ìžë£Œì ì˜ yê°’ë“¤ì„ ë¹„êµí•˜ì—¬ ê°€ìž¥ ë§Žì€ classë¡œ ì˜ˆì¸¡í•˜ëŠ” ë°©ë²•ìž…ë‹ˆë‹¤.
 ```
 
-- **¼­Æ÷Æ® º¤ÅÍ ±â°è**
+- **ì„œí¬íŠ¸ ë²¡í„° ê¸°ê³„**
 
 ```xml
-°áÁ¤ °æ°è, Áï ºÐ·ù¸¦ À§ÇÑ ±âÁØ ¼±À» Á¤ÀÇÇÏ´Â ¸ðµ¨ÀÔ´Ï´Ù. ±×·¡¼­ ºÐ·ùµÇÁö ¾ÊÀº »õ·Î¿î Á¡ÀÌ 
-³ªÅ¸³ª¸é °æ°èÀÇ ¾î´À ÂÊ¿¡ ¼ÓÇÏ´Â Áö¸¦ È®ÀÎÇØ¼­ ºÐ·ù °úÁ¦¸¦ ¼öÇàÇÒ ¼ö ÀÖ°Ô ÇÕ´Ï´Ù.
-µû¶ó¼­ ÀÌ °áÁ¤ °æ°è¸¦ ¾î¶»°Ô Á¤ÀÇÇÏ°í °è»êÇÏ´Â Áö°¡ °¡Àå Áß¿äÇÕ´Ï´Ù.
-°áÁ¤ °æ°è´Â µ¥ÀÌÅÍ ±ºÀ¸·ÎºÎÅÍ ÃÖ´ëÇÑ ¸Ö¸® ¶³¾îÁ® ÀÖÀ» ¶§ °¡Àå ¼º´ÉÀÌ ÁÁ½À´Ï´Ù.
+ê²°ì • ê²½ê³„, ì¦‰ ë¶„ë¥˜ë¥¼ ìœ„í•œ ê¸°ì¤€ ì„ ì„ ì •ì˜í•˜ëŠ” ëª¨ë¸ìž…ë‹ˆë‹¤. ê·¸ëž˜ì„œ ë¶„ë¥˜ë˜ì§€ ì•Šì€ ìƒˆë¡œìš´ ì ì´ 
+ë‚˜íƒ€ë‚˜ë©´ ê²½ê³„ì˜ ì–´ëŠ ìª½ì— ì†í•˜ëŠ” ì§€ë¥¼ í™•ì¸í•´ì„œ ë¶„ë¥˜ ê³¼ì œë¥¼ ìˆ˜í–‰í•  ìˆ˜ ìžˆê²Œ í•©ë‹ˆë‹¤.
+ë”°ë¼ì„œ ì´ ê²°ì • ê²½ê³„ë¥¼ ì–´ë–»ê²Œ ì •ì˜í•˜ê³  ê³„ì‚°í•˜ëŠ” ì§€ê°€ ê°€ìž¥ ì¤‘ìš”í•©ë‹ˆë‹¤.
+ê²°ì • ê²½ê³„ëŠ” ë°ì´í„° êµ°ìœ¼ë¡œë¶€í„° ìµœëŒ€í•œ ë©€ë¦¬ ë–¨ì–´ì ¸ ìžˆì„ ë•Œ ê°€ìž¥ ì„±ëŠ¥ì´ ì¢‹ìŠµë‹ˆë‹¤.
 
-ÀÌ¶§ ¸¶ÁøÀÌ¶õ °áÁ¤ °æ°è¿Í ¼­Æ÷Æ® º¤ÅÍ »çÀÌÀÇ °Å¸®¸¦ ÀÇ¹ÌÇÕ´Ï´Ù.
-µû¶ó¼­ ÃÖÀûÀÇ °áÁ¤ °æ°è´Â ¸¶ÁøÀ» ÃÖ´ëÈ­ÇÑ °ÍÀÔ´Ï´Ù.
+ì´ë•Œ ë§ˆì§„ì´ëž€ ê²°ì • ê²½ê³„ì™€ ì„œí¬íŠ¸ ë²¡í„° ì‚¬ì´ì˜ ê±°ë¦¬ë¥¼ ì˜ë¯¸í•©ë‹ˆë‹¤.
+ë”°ë¼ì„œ ìµœì ì˜ ê²°ì • ê²½ê³„ëŠ” ë§ˆì§„ì„ ìµœëŒ€í™”í•œ ê²ƒìž…ë‹ˆë‹¤.
 ```
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/54baa5dc-4aa4-4efe-82e5-84890bb949d8/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210907%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210907T090016Z&X-Amz-Expires=86400&X-Amz-Signature=a163ae44d8108dd4d4082ef390f1bf840df33543430c5c66019241a0643fd102&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
 
-- **¾Ó»óºí ±â¹ý**
+- **ì•™ìƒë¸” ê¸°ë²•**
 
 ```xml
-¿©·¯ ºÐ·ù ¸ðÇü( È¸±ÍºÐ¼®, ÀÇ»ç°áÁ¤³ª¹«, ½Å°æ¸Á, ·ÎÁö½ºÆ½ È¸±Í µîµî )¿¡¼­ ¾òÀº °á°úµé¿¡
-´Ù¼ö°á ¿øÄ¢À» Àû¿ëÇÏ¿© ÃÖÁ¾ ¿¹ÃøÄ¡¸¦ °áÁ¤ÇÏ´Â ±â¹ýÀÔ´Ï´Ù. ÇÏ³ªÀÇ µ¥ÀÌÅÍ°¡ ÁÖ¾îÁö¸é Ç¥º»ÃßÃâÀ»
-ÅëÇØ ´Ù¼öÀÇ ÈÆ·Ãµ¥ÀÌÅÍ¸¦ »ý¼ºÇÏ°í °¢ ÈÆ·Ãµ¥ÀÌÅÍ¿¡ µ¿ÀÏÇÑ ¾Ë°í¸®ÁòÀ¸·Î ¸ðÇüÀ» »ý¼ºÇÑ ÈÄ 
-±× °á°ú¸¦ °áÇÕÇÏ¿© ÃÖÁ¾ ¿¹ÃøÀ» ÇÕ´Ï´Ù.
+ì—¬ëŸ¬ ë¶„ë¥˜ ëª¨í˜•( íšŒê·€ë¶„ì„, ì˜ì‚¬ê²°ì •ë‚˜ë¬´, ì‹ ê²½ë§, ë¡œì§€ìŠ¤í‹± íšŒê·€ ë“±ë“± )ì—ì„œ ì–»ì€ ê²°ê³¼ë“¤ì—
+ë‹¤ìˆ˜ê²° ì›ì¹™ì„ ì ìš©í•˜ì—¬ ìµœì¢… ì˜ˆì¸¡ì¹˜ë¥¼ ê²°ì •í•˜ëŠ” ê¸°ë²•ìž…ë‹ˆë‹¤. í•˜ë‚˜ì˜ ë°ì´í„°ê°€ ì£¼ì–´ì§€ë©´ í‘œë³¸ì¶”ì¶œì„
+í†µí•´ ë‹¤ìˆ˜ì˜ í›ˆë ¨ë°ì´í„°ë¥¼ ìƒì„±í•˜ê³  ê° í›ˆë ¨ë°ì´í„°ì— ë™ì¼í•œ ì•Œê³ ë¦¬ì¦˜ìœ¼ë¡œ ëª¨í˜•ì„ ìƒì„±í•œ í›„ 
+ê·¸ ê²°ê³¼ë¥¼ ê²°í•©í•˜ì—¬ ìµœì¢… ì˜ˆì¸¡ì„ í•©ë‹ˆë‹¤.
 
-* ¹è±ë(Bagging, Bootstrap Aggregation): ¹è±ëÀº »ùÇÃÀ» ¿©·¯ ¹ø »Ì¾Æ(Bootstrap) °¢ ¸ðµ¨À» 
-	ÇÐ½À½ÃÄÑ °á°ú¹°À» Áý°èÇÏ´Â ¹æ¹ýÀÔ´Ï´Ù.
-	¿ì¼± ÁÖ¾îÁø µ¥ÀÌÅÍ¸¦ ºÎÆ®½ºÆ®·¦ÇÏ°í ¸¸µé¾îÁø µ¥ÀÌÅÍ·Î ¸ðµ¨À» ÇÐ½À½ÃÅµ´Ï´Ù. 
-	±×¸®°í ÇÐ½ÀµÈ ¸ðµ¨ÀÇ °á°ú¸¦ Áý°èÇÏ¿© ´Ù¼ö°áÀÇ ¿ø¸®¿¡ µû¶ó ÃÖÁ¾ °á°ú °ªÀ» ±¸ÇÕ´Ï´Ù.
+* ë°°ê¹…(Bagging, Bootstrap Aggregation): ë°°ê¹…ì€ ìƒ˜í”Œì„ ì—¬ëŸ¬ ë²ˆ ë½‘ì•„(Bootstrap) ê° ëª¨ë¸ì„ 
+	í•™ìŠµì‹œì¼œ ê²°ê³¼ë¬¼ì„ ì§‘ê³„í•˜ëŠ” ë°©ë²•ìž…ë‹ˆë‹¤.
+	ìš°ì„  ì£¼ì–´ì§„ ë°ì´í„°ë¥¼ ë¶€íŠ¸ìŠ¤íŠ¸ëž©í•˜ê³  ë§Œë“¤ì–´ì§„ ë°ì´í„°ë¡œ ëª¨ë¸ì„ í•™ìŠµì‹œí‚µë‹ˆë‹¤. 
+	ê·¸ë¦¬ê³  í•™ìŠµëœ ëª¨ë¸ì˜ ê²°ê³¼ë¥¼ ì§‘ê³„í•˜ì—¬ ë‹¤ìˆ˜ê²°ì˜ ì›ë¦¬ì— ë”°ë¼ ìµœì¢… ê²°ê³¼ ê°’ì„ êµ¬í•©ë‹ˆë‹¤.
 ```
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f14b270f-1432-4c3d-93b3-29df0722ae2b/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210907%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210907T090026Z&X-Amz-Expires=86400&X-Amz-Signature=3e002a12f19e964f8f6ea9192dfa94ffa65501ecad4ff6f2e11fdb0d66235906&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
 
-- **ºÎ½ºÆÃ**
+- **ë¶€ìŠ¤íŒ…**
 
 ```xml
-ºÎ½ºÆÃÀº °¡ÁßÄ¡¸¦ È°¿ëÇÏ¿© ¾à ºÐ·ù±â¸¦ °­ ºÐ·ù±â·Î ¸¸µå´Â ¹æ¹ýÀÔ´Ï´Ù. 
-¹è±ëÀÇ °æ¿ì ÀÇ»ç°áÁ¤³ª¹«1°ú ÀÇ»ç°áÁ¤³ª¹«2°¡ ¼­·Î µ¶¸³ÀûÀÎ °á°ú¸¦ ¿¹ÃøÇÏÁö¸¸ ºÎ½ºÆÃÀº
-Ã³À½ ¸ðµ¨ÀÌ ¿¹ÃøÇÑ °á°ú¸¦ µÎ ¹øÂ° ¸ðµ¨ÀÌ Ã¹ ¹øÂ° ¸ðµ¨ÀÇ °á°ú¿¡ °¡ÁßÄ¡¸¦ ºÎ¿©ÇØ¼­ ¿¹ÃøÀ» ÇÕ´Ï´Ù.
-ÀÌ·¸°Ô ¸ðµ¨ÀÇ °á°ú´Â °¡ÁßÄ¡¸¦ ºÎ¿©¹ÞÀ¸¸é¼­ ´ÙÀ½ ¸ðµ¨¿¡ ¿µÇâÀ» ÁÝ´Ï´Ù.
+ë¶€ìŠ¤íŒ…ì€ ê°€ì¤‘ì¹˜ë¥¼ í™œìš©í•˜ì—¬ ì•½ ë¶„ë¥˜ê¸°ë¥¼ ê°• ë¶„ë¥˜ê¸°ë¡œ ë§Œë“œëŠ” ë°©ë²•ìž…ë‹ˆë‹¤. 
+ë°°ê¹…ì˜ ê²½ìš° ì˜ì‚¬ê²°ì •ë‚˜ë¬´1ê³¼ ì˜ì‚¬ê²°ì •ë‚˜ë¬´2ê°€ ì„œë¡œ ë…ë¦½ì ì¸ ê²°ê³¼ë¥¼ ì˜ˆì¸¡í•˜ì§€ë§Œ ë¶€ìŠ¤íŒ…ì€
+ì²˜ìŒ ëª¨ë¸ì´ ì˜ˆì¸¡í•œ ê²°ê³¼ë¥¼ ë‘ ë²ˆì§¸ ëª¨ë¸ì´ ì²« ë²ˆì§¸ ëª¨ë¸ì˜ ê²°ê³¼ì— ê°€ì¤‘ì¹˜ë¥¼ ë¶€ì—¬í•´ì„œ ì˜ˆì¸¡ì„ í•©ë‹ˆë‹¤.
+ì´ë ‡ê²Œ ëª¨ë¸ì˜ ê²°ê³¼ëŠ” ê°€ì¤‘ì¹˜ë¥¼ ë¶€ì—¬ë°›ìœ¼ë©´ì„œ ë‹¤ìŒ ëª¨ë¸ì— ì˜í–¥ì„ ì¤ë‹ˆë‹¤.
 ```
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a35f2049-e2b8-4f4f-a3f2-7a85af6d79f8/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210907%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210907T090037Z&X-Amz-Expires=86400&X-Amz-Signature=c10a0c95d1766a0ee21dffa50c958d19bf8e7beb53a6e389cffe9842e5351199&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
 
-- **¹è±ë°ú ºÎ½ºÆÃÀÇ Â÷ÀÌ**
+- **ë°°ê¹…ê³¼ ë¶€ìŠ¤íŒ…ì˜ ì°¨ì´**
 
 ```xml
-¹è±ëÀº º´·Ä·Î ÇÐ½ÀÇÏ´Â ¹Ý¸é, ºÎ½ºÆÃÀº ¼øÂ÷ÀûÀ¸·Î ÇÐ½ÀÇÕ´Ï´Ù. 
-ºÎ½ºÆÃÀº ¹è±ë¿¡ ºñÇØ ¿¡·¯°¡ ´õ Àû½À´Ï´Ù. Áï ¼º´ÉÀÌ ÁÁ½À´Ï´Ù. ÇÏÁö¸¸ ¼Óµµ°¡ ´À¸®°í ¿À¹öÇÇÆÃÀÌ
-µÉ °¡´É¼ºÀÌ ³ô½À´Ï´Ù. 
+ë°°ê¹…ì€ ë³‘ë ¬ë¡œ í•™ìŠµí•˜ëŠ” ë°˜ë©´, ë¶€ìŠ¤íŒ…ì€ ìˆœì°¨ì ìœ¼ë¡œ í•™ìŠµí•©ë‹ˆë‹¤. 
+ë¶€ìŠ¤íŒ…ì€ ë°°ê¹…ì— ë¹„í•´ ì—ëŸ¬ê°€ ë” ì ìŠµë‹ˆë‹¤. ì¦‰ ì„±ëŠ¥ì´ ì¢‹ìŠµë‹ˆë‹¤. í•˜ì§€ë§Œ ì†ë„ê°€ ëŠë¦¬ê³  ì˜¤ë²„í”¼íŒ…ì´
+ë  ê°€ëŠ¥ì„±ì´ ë†’ìŠµë‹ˆë‹¤. 
 ```
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/87d78521-6c1c-4703-92d7-87ac279aea03/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210907%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210907T090046Z&X-Amz-Expires=86400&X-Amz-Signature=21ed7aeae35f12ce6d7f6bad00bdaffe6100ffe0491920f74fa74e59d2508ba3&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
 
-- **¹üÇÎ(Bumping)**
+- **ë²”í•‘(Bumping)**
 
 ```xml
-ºÎÆ®½ºÆ®·¦ Ç¥º»À» ÃßÃâÇÏ¿© ¸ðÇüÀ» ÀûÇÕÇÏ´Â ¹æ¹ýÀ¸·Î ¹è±ë¿¡¼­´Â °¢ ¸ðÇüÀ» °áÇÕÇÏ¿© ¿¹ÃøÇÏÁö¸¸
-¹üÇÎÀÇ °æ¿ì´Â ¿©·¯ ¸ðÇü Áß °¡Àå ¿¹Ãø·ÂÀÌ ÁÁÀº ¸ðÇü ÇÏ³ª¸¸À» ¼±ÅÃÇÏ°í ÀÌ ¸ðÇüÀ» ÀÌ¿ëÇÏ¿©
-ÃÖÁ¾ ¿¹ÃøÀ» ÇÕ´Ï´Ù.
+ë¶€íŠ¸ìŠ¤íŠ¸ëž© í‘œë³¸ì„ ì¶”ì¶œí•˜ì—¬ ëª¨í˜•ì„ ì í•©í•˜ëŠ” ë°©ë²•ìœ¼ë¡œ ë°°ê¹…ì—ì„œëŠ” ê° ëª¨í˜•ì„ ê²°í•©í•˜ì—¬ ì˜ˆì¸¡í•˜ì§€ë§Œ
+ë²”í•‘ì˜ ê²½ìš°ëŠ” ì—¬ëŸ¬ ëª¨í˜• ì¤‘ ê°€ìž¥ ì˜ˆì¸¡ë ¥ì´ ì¢‹ì€ ëª¨í˜• í•˜ë‚˜ë§Œì„ ì„ íƒí•˜ê³  ì´ ëª¨í˜•ì„ ì´ìš©í•˜ì—¬
+ìµœì¢… ì˜ˆì¸¡ì„ í•©ë‹ˆë‹¤.
+```
+
+## 9. ê¸°íƒ€ ê°œë… ì •ë¦¬
+
+- ì¸ê³µì§€ëŠ¥, ë°ì´í„°ë§ˆì´ë‹, ë¨¸ì‹ ëŸ¬ë‹, ë”¥ëŸ¬ë‹ ì°¨ì´ì 
+
+```jsx
+* ì¸ê³µì§€ëŠ¥: ê¸°ê³„ë¥¼ ì¸ê°„ì²˜ëŸ¼ ìƒê°í•˜ê³  í–‰ë™í•˜ê²Œ í•˜ëŠ” ê¸°ìˆ 
+* ë°ì´í„°ë§ˆì´ë‹: ì£¼ì–´ì§„ ë°ì´í„°ë¥¼ ë‹¤ì–‘í•˜ê²Œ ë¶„ì„(ì—°ê´€, íšŒê·€, ë¶„ë¥˜ ë“±)í•˜ì—¬ ìœ ìš©í•œ ì •ë³´ë¥¼ ë°œê²¬í•˜ëŠ” ê²ƒ
+* ë¨¸ì‹ ëŸ¬ë‹: ë°ì´í„°ë§ˆì´ë‹ì´ë‚˜ ê¸°íƒ€ í•™ìŠµ ì•Œê³ ë¦¬ì¦˜ì„ ì‚¬ìš©í•˜ì—¬ ëª¨í˜•ì„ í•™ìŠµì‹œí‚¤ê³  í•™ìŠµëœ ëª¨í˜•ì„
+	ì´ìš©í•´ì„œ ë¯¸ëž˜ì˜ ì‚¬ê±´ì„ ì˜ˆì¸¡í•˜ëŠ” ê²ƒ
+	- ì§€ë„í•™ìŠµ: íŠ¹ì • ë°ì´í„°ì— ëŒ€í•œ ê²°ê³¼ë¥¼ ì•Œê³ ìžˆëŠ” ë°ì´í„°ë¥¼ ì´ìš©í•˜ì—¬ ëª¨í˜•ì„ í•™ìŠµì‹œí‚¤ëŠ” ê²ƒ
+		íšŒê·€ë¶„ì„, ë¶„ë¥˜ ë“±
+	- ë¹„ì§€ë„í•™ìŠµ: íŠ¹ì • ë°ì´í„°ì— ëŒ€í•œ ê²°ê³¼ê°€ ì—†ëŠ” ë°ì´í„°ì—ì„œ ì»´í“¨í„°ê°€ ìŠ¤ìŠ¤ë¡œ ìˆ¨ê²¨ì§„ íŒ¨í„´ì„ 
+		ë°œê²¬í•˜ê³  ëª¨í˜•í™”í•˜ëŠ” ê²ƒ
+	- ê°•í™”í•™ìŠµ: ì˜¬ë°”ë¥¸ ì˜ˆì¸¡ì„ í–ˆì„ ì‹œ ë³´ìƒì„ ì£¼ì–´ì„œ ê°•í•œ ëª¨í˜•ìœ¼ë¡œ í•™ìŠµì‹œí‚¤ëŠ” ê²ƒì„ ì˜ë¯¸í•©ë‹ˆë‹¤.
+* ë”¥ëŸ¬ë‹: ì¸ê³µì‹ ê²½ë§ì„ ê¸°ì´ˆë¡œí•˜ì—¬ ì‚¬ëžŒì˜ ì‹ ê²½ë§ ì›ë¦¬ë¥¼ ì´ìš©í•´ì„œ ê¸°ê³„í•™ìŠµì‹œí‚¤ëŠ” ì•Œê³ ë¦¬ì¦˜
 ```
